@@ -1,1 +1,1 @@
-# Entregas de practicas SGE
+# Repo made for my sge classes
