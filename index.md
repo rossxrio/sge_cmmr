@@ -3,4 +3,4 @@
 ## INDEX
 
 - [UNIDAD 4](./ut04/index.md)
-- [UNIDAD 4](./ut02/index.md)
+- [UNIDAD 2](./ut02/index.md)
